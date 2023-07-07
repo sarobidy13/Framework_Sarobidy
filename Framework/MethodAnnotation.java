@@ -1,4 +1,4 @@
-package etu1816.framework.annotation;
+package etu1816.framework;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
